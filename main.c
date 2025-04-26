@@ -10,5 +10,5 @@ int main () {
     } else {
         printf ("Você é menor de idade\n");
     }
-
+    return 0;
 }
